@@ -7,7 +7,7 @@ body {
 header {
   display: flex;
   align-items: center;
-  height: 48px;
+  height: 52px;
 }
 #header-icon {
   margin: 0 10px 0 17px;
